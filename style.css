@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{    
+    background-image: url(./2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   background-position: center;
+   background-attachment: fixed;
+ 
+
+
+ 
+      
+}
+label{
+    color: white;
+    border: 2px solid red;
+    /* padding: 10px;
+    margin-left: 10px; */
+}
+
+.col{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+h3{
+    color: black;
+    
+}
+
+
+p{
+    font-size: 30px;
+}
+
+
+ 
+.maincontainer{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
